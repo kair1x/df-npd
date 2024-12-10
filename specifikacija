@@ -1,1 +1,13 @@
+Ievadies dati:
+Preces cena
+Preces daudzums
+Programma pieprasa cenu un daudzumu līdz brīdim, kad lietotājs ievadīs "0" kā cenu vai tukšu ievadi (kas nozīmē, ka ievade ir beigusies).
 
+Izvades dati:
+Katras preces kopējā summa (cena * daudzums).
+Galīgā kopsumma pēc visu preču ievades.
+
+Programmas darbība:
+Nepārtraukti pieprasa lietotājiem ievadīt cenas un daudzumus.
+Aprēķina un izvada katras preces kopējo summu.
+Uzkrāj visas summas un izvada galīgo kopsummu, kad ievade tiek pabeigta.
